@@ -1,3 +1,13 @@
-h1 {
+.hero {
+  background: greenyellow;
   text-align: center;
+  padding: 215px 0;
+}
+
+.hero h1 {
+  font-size: 74px;
+}
+
+.hero h3 {
+  font-size: 46px;
 }
