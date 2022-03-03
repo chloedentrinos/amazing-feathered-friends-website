@@ -1,0 +1,40 @@
+h1 {
+  font-size: 74px;
+}
+
+h2 {
+  font-size: 46px;
+}
+
+h3 {
+  font-size: 46px;
+}
+
+p {
+  font-size: 19px;
+}
+
+ul {
+  font-size: 19px;
+}
+
+.hero {
+  background: greenyellow;
+  text-align: center;
+  padding: 215px 0;
+}
+
+.homepage-container {
+  text-align: center;
+  margin: 90px auto;
+  padding: 0 200px;
+}
+
+.homepage-services h4,
+.homepage-services p,
+.homepage-services a {
+  color: white;
+}
+.homepage-services p {
+  font-size: 14px;
+}
